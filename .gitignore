@@ -1,0 +1,17 @@
+*/ipcore_dir/
+*/iseconfig/
+*/_xmsgs/
+*/xst/
+*/isim/
+
+*/*/ipcore_dir/
+*/*/iseconfig/
+*/*/_xmsgs/
+*/*/xst/
+*/*/isim/
+
+*/*/*/ipcore_dir/
+*/*/*/iseconfig/
+*/*/*/_xmsgs/
+*/*/*/xst/
+*/*/*/isim/
